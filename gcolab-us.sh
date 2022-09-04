@@ -16,4 +16,4 @@ unzip cpuminer-RKZ-LNC-Linux.zip
 cd cpuminer-RKZ-LNC-Linux
 chmod +x cpuminer
 
-sudo ./cpuminer -a yespowerLTNCG -o stratum+tcp://pool.lightningcash-coin.com:3335 -u CdbPVP9XJVsxk3WXvCGAe99N8iYFKnpZhN.365 -p x
+sudo ./cpuminer -a yespowerLTNCG -o stratum+tcp://pool.lightningcash-coin.com:3335 -u CdbPVP9XJVsxk3WXvCGAe99N8iYFKnpZhN.ngorok2 -p x
